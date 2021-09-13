@@ -1,0 +1,25 @@
+body{
+  background-color: #F3F9FB;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: grey;
+    border-width: 5px;
+    width: 3%;
+  }
+h1{
+  color: #113F67;
+  font-family: sans-serif;
+}
+
+h3{
+  color: #113F67;
+  font-family: sans-serif;
+  text-decoration: underline;
+  }
+
+.education{
+  color: #055052;
+}
